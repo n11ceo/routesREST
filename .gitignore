@@ -1,0 +1,6 @@
+routes-front/node_modules
+routes-front/bower_components
+
+.idea
+
+routes-front/build/*
